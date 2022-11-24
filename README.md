@@ -1,3 +1,8 @@
+## Bem vindo(a) ao meu perfil! :D
+
+### Minhas skills:
+
+<br>
 <div>
   <a href="https://github.com/0nicode0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0nicode0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,7 +17,7 @@
  
  <br>
  
-  ### Abaixo segue minhas redes sociais:
+  ### Minhas redes sociais:
  
 <div>   
   <a href="https://www.instagram.com/0_nic_0_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
