@@ -1,6 +1,6 @@
-## Bem vindo(a) ao meu perfil! :D
+## Welcome! :D
 
-### Minhas skills:
+### My skills:
 
 <br>
 <div>
@@ -17,7 +17,7 @@
  
  <br>
  
-  ### Minhas redes sociais:
+  ### Social medias:
  
 <div>   
   <a href="https://www.instagram.com/0_nic_0_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
