@@ -1,4 +1,5 @@
-## Welcome! :D
+## :sparkles: Hello World! :sparkles:
+## Welcome to my profile :grinning:
 
 ### My skills:
 
