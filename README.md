@@ -1,4 +1,14 @@
-## :sparkles: Hello World! :sparkles:
+<div> 
+
+<div id="visitorCount" align="center" style="display: inline_block">
+    
+  ![](https://komarev.com/ghpvc/?username=0nicode0&color=blue&style=for-the-badge&label=Visitor+count)
+    
+  <div style="display: inline_block">
+  
+
+## :sparkles: Hello World! :sparkles: 
+    
 ## Welcome to my profile :grinning:
 
 ### My skills:
@@ -13,14 +23,19 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="JAVA" height="30" width="50" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
 </div>
  
  <br>
- 
-  ### Social medias:
+  
+  ![Snake animation](https://github.com/Echyley/Echyley/blob/output/github-contribution-grid-snake.svg)
+</div>
+  
+ ### Social medias:
  
 <div>   
   <a href="https://www.instagram.com/0_nic_0_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolyrsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
+  
