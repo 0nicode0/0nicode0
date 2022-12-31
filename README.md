@@ -2,7 +2,7 @@
 ## :sparkles: Hello World! :sparkles:   
     
 ## Welcome to my profile :grinning:
-### ☆ Here you can find my experiences and some excerpts from my journey in the world of programming.  <br>  ☆ Hope you like!
+### ☆ Here you can find my experiences and some excerpts from my journey in the world of programming.  <br>  Hope you like!
 
 ## :sparkles: My skills:
 
