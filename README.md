@@ -1,19 +1,12 @@
-<div> 
 
-<div id="visitorCount" align="center" style="display: inline_block">
-    
-  ![](https://komarev.com/ghpvc/?username=0nicode0&color=blue&style=for-the-badge&label=Visitor+count)
-    
-  <div style="display: inline_block">
-  
-
-## :sparkles: Hello World! :sparkles: 
+## :sparkles: Hello World! :sparkles:   
     
 ## Welcome to my profile :grinning:
 
 ### My skills:
 
 <br>
+
 <div>
   <a href="https://github.com/0nicode0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0nicode0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -27,15 +20,17 @@
 </div>
  
  <br>
-  
-  ![Snake animation](https://github.com/Echyley/Echyley/blob/output/github-contribution-grid-snake.svg)
-</div>
-  
+    
+  ![Snake animation](https://github.com/0nicode0/0nicode0/blob/output/github-contribution-grid-snake.svg)  
+    
  ### Social medias:
- 
 <div>   
   <a href="https://www.instagram.com/0_nic_0_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicolyrsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+  <a href="https://www.linkedin.com/in/nicolyrsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    
+   <div id="visitorCount" align="right" style="display: inline_block">
+    
+  ![](https://komarev.com/ghpvc/?username=0nicode0&color=blue&style=for-the-badge&label=Visitor+count)
+    
+  <div style="display: inline_block">
   
