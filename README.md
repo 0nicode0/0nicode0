@@ -22,8 +22,6 @@
  
  <br>
     
-  ![Snake animation](https://github.com/0nicode0/0nicode0/blob/output/github-contribution-grid-snake.svg)  
-    
  ### Social medias:
 <div>   
   <a href="https://www.instagram.com/0_nic_0_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
