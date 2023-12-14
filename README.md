@@ -1,10 +1,10 @@
 
-## :sparkles: Hello World! :sparkles:   
+## ✨ Hello World! ✨ 
     
-## Welcome to my profile :grinning:
+## Welcome to my profile 😀
 ### ☆ Here you can find my experiences and some excerpts from my journey in the world of programming.  <br>  Hope you like!
 
-## :sparkles: My skills:
+## ✨ My skills:
 
 <br>
 
@@ -21,8 +21,6 @@
 </div>
  
  <br>
-    
-  ![Snake animation](https://github.com/0nicode0/0nicode0/blob/output/github-contribution-grid-snake.svg)  
     
  ### Social medias:
 <div>   
